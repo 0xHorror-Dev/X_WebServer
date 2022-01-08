@@ -7,7 +7,7 @@
 
 1. ```git clone https://github.com/0xHorror-Dev/X_WebServer.git```
 2. ```cd X_WebServer```
-3. ```git submodule update --init -recursive```
+3. ```git submodule update --init --recursive```
 4. ```mkdir build && cd build```
 5. ```cmake ..```
 6. ```cmake --build .```
