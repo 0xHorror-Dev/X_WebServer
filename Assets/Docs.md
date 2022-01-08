@@ -1,6 +1,6 @@
 <h1 align="center"> X_WebServer </br> Docs </h1>
 
-## [go back](../README.md)
+## [go back](https://github.com/0xHorror-Dev/X_WebServer)
 
 ---
 
@@ -10,4 +10,4 @@
 
 ---
 
-## [go back](../README.md)
+## [go back](https://github.com/0xHorror-Dev/X_WebServer)
