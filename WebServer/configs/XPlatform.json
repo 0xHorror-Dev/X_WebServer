@@ -1,0 +1,24 @@
+{
+  "XPlatform": {
+    "Version": {
+      "Major": 0,
+      "Minor": 0,
+      "Patch": 0,
+      "Alpha": 1
+    },
+    
+    "Extensions": [
+      {
+        "Name": "XPLATFORM_EXT_NET",
+        "Path": "Engine/XPlatform.net.dll",
+        "Version": {
+          "Major": 0,
+          "Minor": 0,
+          "Patch": 0,
+          "Alpha": 1
+        }
+      }
+    ]
+
+  }
+}

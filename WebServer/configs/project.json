@@ -1,0 +1,18 @@
+{
+  "XPlatform": {
+    "Engine": {
+      "Dir": "Engine/"
+    },
+
+    "Project": {
+      "Name": "example",
+      "Version": {
+        "Major": 0,
+        "Minor": 0,
+        "Patch": 0,
+        "Alpha": 1
+      }
+    }
+
+  }
+}
