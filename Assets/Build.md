@@ -5,7 +5,7 @@
 
 ---
 
-1. ```git clone https://github.com/0xHorror-Dev/SimpleWebServer.git```
+1. ```git clone https://github.com/0xHorror-Dev/X_WebServer.git```
 2. ```mkdir build && cd build```
 3. ```cmake ..```
 4. ```cmake --build .```
