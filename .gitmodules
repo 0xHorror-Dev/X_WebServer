@@ -4,3 +4,6 @@
 [submodule "XPlatform/Exts/net"]
 	path = XPlatform/Exts/net
 	url = https://github.com/XPlatformProject/XPlatform.net.git
+[submodule "XPlatform/XFMT"]
+	path = XPlatform/XFMT
+	url = https://github.com/XPlatformProject/XFmt.git
